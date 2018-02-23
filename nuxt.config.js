@@ -54,7 +54,9 @@ module.exports = {
           name: 'Deutsch',
         }
       ],
-      defaultLocale: 'en',
+      defaultLocale: 'de',
+      noPrefixDefaultLocale: false,
+      redirectRootToLocale: 'de',
       vueI18n: {
         messages: {
           //load the language files. This is not async.
