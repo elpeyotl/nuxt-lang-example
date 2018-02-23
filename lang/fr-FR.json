@@ -1,0 +1,21 @@
+{
+    "links": {
+        "home": "Home",
+        "win": "Gagnez",
+        "contact": "Contact",
+        "deutsch": "Deutsche Version",
+        "english": "Englische Version"
+    },
+    "home": {
+        "title": "Bienvenu",
+        "introduction": "Bienvenue chez nous"
+    },
+    "contact": {
+        "title": "Contact nous",
+        "introduction": "Contactez nous maintenant"
+    },
+    "win": {
+        "title": "Gagner maintenat!",
+        "introduction": "jouer e gagner"
+    }
+}

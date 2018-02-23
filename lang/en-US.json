@@ -1,0 +1,21 @@
+{
+    "links": {
+        "home": "Home",
+        "win": "Win",
+        "contact": "Contact",
+        "french": "French Version",
+        "german": "German Version"
+    },
+    "home": {
+        "title": "Welcome",
+        "introduction": "This is an introduction in English."
+    },
+    "contact": {
+        "title": "Contact page",
+        "introduction": "This page is made to give you more informations."
+    },
+    "win": {
+        "title": "Win now!",
+        "introduction": "Play and win for life!"
+    }
+}

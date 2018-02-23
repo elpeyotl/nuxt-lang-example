@@ -1,0 +1,21 @@
+{
+    "links": {
+        "home": "Home",
+        "win": "Gewinne",
+        "contact": "Kontakt",
+        "french": "Frnazösische Version",
+        "english": "Englische Version"
+    },
+    "home": {
+        "title": "Willkommen",
+        "introduction": "Das ist ein Introtext"
+    },
+    "contact": {
+        "title": "Kontaktseite",
+        "introduction": "Kontaktieren Sie uns!"
+    },
+    "win": {
+        "title": "Jetzt gewinnen!",
+        "introduction": "Mitspielen und gewinne!"
+    }
+}
