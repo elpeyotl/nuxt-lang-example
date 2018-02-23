@@ -64,7 +64,22 @@ module.exports = {
         },
         fallbackLocale: 'en'
       },
+      routes: {
+        contact: {
+          fr: '/a-propos',
+          en: '/about-us',
+          de: '/ueber-uns'
+        },
+        win: {
+          fr: '/gagnez',
+          en: '/win',
+          de: '/gewinnen'
+        }
+      },
       // ...
     },]
-  ]
+  ],
+  router: {
+    //base: '/nuxt/nuxt-lang/nuxt-lang/dist/'
+  }
 }
