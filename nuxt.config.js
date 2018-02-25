@@ -55,8 +55,6 @@ module.exports = {
         }
       ],
       defaultLocale: 'de',
-      noPrefixDefaultLocale: false,
-      redirectRootToLocale: 'de',
       vueI18n: {
         messages: {
           //load the language files. This is not async.
@@ -82,6 +80,6 @@ module.exports = {
     },]
   ],
   router: {
-    //base: '/nuxt/nuxt-lang/nuxt-lang/dist/'
+  //base: '/nuxt/nuxt-lang/nuxt-lang/dist/'
   }
 }
